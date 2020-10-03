@@ -1,10 +1,60 @@
-:root {
---color-sly:#2f6e57;
---color-gry:#802431;
---color-huf:#B5A334;
---color-rav:#174A6E;
---color-hog:#8A534A;
---color-min:#8A946D;
---color-san:#603552;
---color-ciu:#D86F33;
+.basj {
+  width:360px;
+  height:auto;
+  margin:0 auto;
+  background:#111111;
+}
+
+.ibasj {
+  padding:30px;
+  font:11px calibri;
+  text-align:justify;
+  color:#f3f3f3;
+}
+
+.barj {
+  width:360px;
+  height:30px;
+  background:#80A69C;
+  margin:0 auto;
+}
+
+.heaj {
+  width:360px;
+  height:auto;
+  background:#222222;
+  margin:0 auto;
+  font:30px 'Abril Fatface';
+  line-height:30px;
+  text-align:center;
+  text-transform:uppercase;
+  padding-top:15px;
+  padding-bottom:15px;
+  color:#f3f3f3;
+  text-shadow:1px 1px 0px #111111,-1px 1px 0px #111111,1px -1px 0px #111111,-1px -1px 0px #111111;
+}
+
+.ibarj {
+  font:10px calibri;
+  text-align:center;
+  color:#f3f3f3;
+  line-height:30px;
+  text-transform:uppercase;
+  font-weight:bold;
+}
+
+#icoj1 {
+  padding-right:5px;
+}
+
+#icoj2 {
+  padding-right:5px;
+  padding-left:5px;
+}
+
+.fooj {
+  width:360px;
+  height:5px;
+  background:#80A69C;
+  margin:0 auto;
 }
