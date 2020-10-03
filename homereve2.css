@@ -1,0 +1,51 @@
+.anw1 {
+width:360px;
+height:auto;
+margin:0 auto;
+background:#111111;
+border-left:5px solid #80A69C;
+}
+
+.ianw1 {
+padding:30px;
+font:11px calibri;
+text-align:justify;
+color:#f3f3f3;
+}
+
+#icdd1 {
+padding-right:5px;
+color:#80A69C;
+}
+
+#icdd2 {
+padding-right:5px;
+padding-left:5px;
+color:#80A69C;
+}
+
+.dat1 {
+font:10px calibri;
+text-align:center;
+color:#f3f3f3;
+line-height:30px;
+text-transform:uppercase;
+font-weight:bold;
+border-bottom:1px solid #80A69C;
+}
+
+.hed1 {
+width:360px;
+height:auto;
+background:#222222;
+margin:0 auto;
+font:30px 'Abril Fatface';
+line-height:30px;
+text-align:center;
+text-transform:uppercase;
+padding-top:15px;
+padding-bottom:15px;
+color:#f3f3f3;
+border-bottom:5px solid #80A69C;
+border-left:5px solid #80A69C;
+}
