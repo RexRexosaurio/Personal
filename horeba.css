@@ -1,5 +1,5 @@
 .bauj1 {
-width:500px;
+width:410px;
 height:350px;
 background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
 background-size:cover;
@@ -22,7 +22,7 @@ display:flex;
 justify-content:center;
 position:relative;
 top:-250px;
-left:-80px;
+left:-35px;
 }
 
 .botu1 {
@@ -61,7 +61,7 @@ font-size:15px;
 font:50px 'Abril Fatface';
 position:relative;
 top:-185px;
-left:290px;
+left:200px;
 transform:rotate(-90deg);
 color:#802430;
 width:350px;
