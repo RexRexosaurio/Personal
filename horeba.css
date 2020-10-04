@@ -1,0 +1,79 @@
+.bauj1 {
+width:500px;
+height:350px;
+background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
+background-size:cover;
+margin:0 auto;
+border:1px solid #222222;
+}
+
+.imbj1 {
+width:250px;
+height:250px;
+background:url('https://i.imgur.com/YFh77xR.png');
+border-radius:180px 180px 180px 0px;
+position:relative;
+top:101px;
+left:-1px;
+}
+
+.baux1 {
+display:flex;
+justify-content:center;
+position:relative;
+top:-250px;
+left:-80px;
+}
+
+.botu1 {
+width:50px;
+height:75px;
+border-radius:0px 0px 90px 90px;
+background:#222222;
+}
+
+.botu2 {
+width:50px;
+height:75px;
+border-radius:0px 0px 90px 90px;
+background:#222222;
+margin-left:15px;
+}
+
+.circj1 {
+width:42px;
+height:42px;
+background:#111111;
+border-radius:90px;
+position:relative;
+left:3px;
+top:28px;
+border:1px solid #802430;
+}
+
+#icojn1 {
+position:relative;
+color:#802430;
+font-size:15px;
+}
+
+.textu1 {
+font:50px 'Abril Fatface';
+position:relative;
+top:-185px;
+left:290px;
+transform:rotate(-90deg);
+color:#802430;
+width:350px;
+text-align:center;
+background:#111111;
+line-height:70px;
+}
+
+.busb1 {
+width:50px;
+height:75px;
+background:#222222;
+border-radius:90px 90px 0px 0px;
+position:relative;
+}
