@@ -1,0 +1,111 @@
+.flec2 {
+display:flex;
+justify-content:center;
+margin:0 auto;
+} 
+
+.jac2 {
+width:430px;
+height:430px;
+background: url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
+border-right:1px solid #222222;
+border-top:1px solid #222222;
+border-bottom:1px solid #222222;
+} 
+
+.barj2 {
+width:70px;
+height:430px;
+background:#802430;
+border-left:1px solid #222222;
+border-top:1px solid #222222;
+border-bottom:1px solid #222222;
+} 
+
+.injac2 {
+width:410px;
+height:340px;
+background:rgba(17, 17, 17, 0.75);
+margin-left:10px;
+margin-top:10px;
+overflow:auto;
+} 
+
+.icc2 {
+width:50px;
+height:75px;
+background:#222222;
+position:relative;
+left:10px;
+border-radius:0px 0px 90px 90px;
+} 
+
+.injac2a {
+width:430px;
+height:70px;
+background:#111111;
+} 
+
+.circlj2 {
+width:42px;
+height:42px;
+background:#111111;
+border-radius:90px;
+border:1px solid #802430;
+position:relative;
+top:28px;
+left:3px;
+} 
+
+#icojc2 {
+font-size:15px;
+color:#802430;
+position:relative;
+top:14px;
+left:13px;
+} 
+
+.injac2::-webkit-scrollbar-thumb {
+background-color:#802430;
+} 
+
+.injac2::-webkit-scrollbar-track {
+background-color:#151515;
+} 
+
+.texc2 {
+font:50px 'Abril Fatface';
+text-transform:uppercase;
+text-align:center;
+color:#802430;
+} 
+
+.otc2 {
+width:70px;
+height:auto;
+text-align:center;
+color:#111111;
+margin-top:10px;
+font-size:13px;
+} 
+
+#otico2 {
+padding-top:10px;
+} 
+
+.infox2 {
+font:10px calibri;
+padding:10px;
+color:#f3f3f3;
+} 
+
+.subtc2 {
+width:auto;
+height:35px;
+font:25px 'Abril Fatface';
+line-height:35px;
+text-align:center;
+background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
+color:#f3f3f3;
+text-transform:uppercase;
+}
