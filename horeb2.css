@@ -7,7 +7,8 @@ margin:0 auto;
 .jac2 {
 width:430px;
 height:430px;
-background:url("https://2img.net/i.imgur.com/5z3LYVx.png") center center / cover no-repeat fixed;
+background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
+background-size:cover;
 border-right:1px solid #222222;
 border-top:1px solid #222222;
 border-bottom:1px solid #222222;
@@ -105,7 +106,8 @@ height:35px;
 font:25px 'Abril Fatface';
 line-height:35px;
 text-align:center;
-background:url("https://2img.net/i.imgur.com/5z3LYVx.png") center center / cover no-repeat fixed;
+background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
+background-size:cover;
 color:#f3f3f3;
 text-transform:uppercase;
 }
