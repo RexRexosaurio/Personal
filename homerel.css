@@ -1,0 +1,40 @@
+.relj3 {
+width:385px;
+height:100px;
+background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
+background-size:cover;margin-top:10px;
+} 
+
+.flere3 {
+display:flex;
+justify-content:center;
+} 
+
+.imgre3 {
+width:80px;
+height:80px;
+background:url('http://placehold.it/80x80');
+border:5px solid #802430;
+margin-top:5px;
+} 
+
+.texre3 {
+width:280px;
+height:90px;
+background:#222222;
+margin-top:5px;
+margin-left:5px;
+overflow:auto;
+} 
+
+.intexre3 {
+padding:10px;
+} 
+
+.texre3::-webkit-scrollbar-thumb {
+background:#802430;
+} 
+
+.texre3::-webkit-scrollbar-track {
+background:#802430;
+}
