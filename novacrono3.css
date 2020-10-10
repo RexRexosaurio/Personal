@@ -1,0 +1,21 @@
+.adifle4 {
+display:flex;
+justify-content:center;
+} 
+
+#icote4 {
+width:40px;
+height:40px;
+background:#4A9527;
+text-align:center;
+line-height:40px;
+font-size:15px;
+color:#f3f3f3;
+margin-right:10px;
+} 
+
+.texte4 {
+width:318px;
+height:40px;
+line-height:normal;
+}
