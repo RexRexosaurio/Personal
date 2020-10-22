@@ -9,13 +9,13 @@ margin-top:10px;
 .flere3 {
 display:flex;
 justify-content:center;
+padding-bottom:5px;
 } 
 
 .sepre3 {
 padding-left:5px;
-padding-bottom:5px;
 padding-top:5px;
-line-height:5px;
+line-height:0px;
 } 
 
 .imgre3 {
