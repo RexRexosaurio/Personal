@@ -1,0 +1,81 @@
+.lechja1 {
+width:410px;
+height:350px;
+margin:0 auto;
+z-index:2;
+border:1px solid #222222;
+background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;background-size:cover;
+}
+
+.cagja1 {
+width:185px;
+height:350px;
+background:url('https://i.imgur.com/q1pNMQr.png');
+position:absolute;
+z-index:1;
+margin-right:410px;
+}
+
+.flexlech1 {
+display:flex;
+justify-content:center;
+}
+
+.titlech1 {
+font:50px 'Abril Fatface';
+position:relative;
+top:-200px;
+left:200px;
+transform:rotate(-90deg);
+color:#802430;
+width:350px;
+text-align:center;
+background:#111111;
+line-height:70px;
+}
+
+.inlech1 {
+width:320px;
+height:330px;
+margin-top:10px;
+margin-left:10px;
+}
+
+.yourlech1 {
+width:320px;
+height:220px;
+background:url('https://i.imgur.com/ikSWela.png');
+}
+
+.textyolech1 {
+width:320px;
+height:110px;
+background:rgba(17, 17, 17, 0.75);
+font:10px calibri;
+overflow:auto;
+transition:all ease 1s;
+}
+
+.textyolech1:hover {
+width:320px;
+height:330px;
+background:rgba(17, 17, 17, 0.75);
+font:10px calibri;
+overflow:auto;
+position:absolute;
+transition:all ease 1s;
+margin-top:-220px;
+}
+
+.blotel1 {
+height:auto;
+padding:10px;
+background:#181818;
+line-height:normal;
+}
+
+#jamcon1 {
+padding-left:5px;
+padding-right:5px;
+color:#802430;
+}
