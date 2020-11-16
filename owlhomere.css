@@ -51,7 +51,7 @@ background:url('https://i.imgur.com/gwG7OTc.png');
 width:320px;
 height:122px;
 background:rgba(17, 17, 17, 0.75);
-font:10px calibri;
+font:10px calibri light;
 overflow:auto;
 transition:all ease 1s;
 }
@@ -60,7 +60,7 @@ transition:all ease 1s;
 width:320px;
 height:330px;
 background:rgba(17, 17, 17, 0.75);
-font:10px calibri;
+font:10px calibri light;
 overflow:auto;
 position:absolute;
 transition:all ease 1s;
