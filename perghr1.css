@@ -1,0 +1,26 @@
+.pergrow1 {
+width:500px;
+height:500px;
+background:url('https://i.imgur.com/rgzOjPf.png');
+margin:0 auto;
+} 
+
+.texcar1 {
+width:350px;
+height:330px;
+font:20px Caveat;
+color:#000000;
+text-align:left;
+position:relative;
+top:91px;
+left:71px;
+} 
+
+.texcar2 {
+padding-left:10px;
+padding-right:10px;
+} 
+
+.texcar3 {
+text-align:right;
+}
