@@ -7,7 +7,7 @@
 
 .ibasj {
   padding:30px;
-  font:13px calibri;
+  font:13px calibri light;
   text-align:justify;
   color:#f3f3f3;
 }
@@ -34,7 +34,7 @@
 }
 
 .ibarj {
-  font:10px calibri;
+  font:10px calibri light;
   text-align:center;
   color:#f3f3f3;
   line-height:30px;
