@@ -1,0 +1,123 @@
+.clashr1 {
+width:422px;
+height:241px;
+margin:0 auto;
+transition:ease 1s;
+} 
+
+.clashr1:hover {
+width:422px;
+height:241px;
+margin:0 auto;
+margin-bottom:181px;
+transition:ease 1s;
+} 
+
+.clashr2 {
+width:420px;
+background:#111111;
+margin:0 auto;
+border:1px solid #222222;
+} 
+
+.clashr3 {
+font:30px 'Abril Fatface';
+line-height:60px;
+text-align:center;
+color:#8a534a;
+text-transform:uppercase;
+} 
+
+.clashr4 {
+width:420px;
+height:180px;
+margin:0 auto;
+border-left:1px solid #222222;
+border-right:1px solid #222222;
+} 
+
+.clashr5 {
+width:420px;
+background:#FF0000;
+margin:0 auto;
+margin-top:-180px;
+background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
+background-size:cover;
+border:1px solid #222222;
+} 
+
+.clashr6 {
+width:100%;
+height:30px;
+background:#8a534a;
+border-bottom:1px solid #222222;
+text-align:center;
+color:#111111;
+font-size:15px;
+} 
+
+.clashr7 {
+width:360px;
+height:auto;
+background:#111111;
+margin-top:30px;
+margin-left:30px;
+} 
+
+.clashr8 {
+padding:30px;
+font:13px 'Calibri Light';
+text-align:justify;
+} 
+
+.clashr9 {
+width:60px;
+height:60px;
+background:#8a534a;
+float:left;
+margin:30px;
+text-align:center;
+} 
+
+#clashr10 {
+font-size:30px;
+margin-top:15px;
+color:#111111;
+} 
+
+#clashr11 {
+color:#111111;
+margin-top:7px;
+} 
+
+.clashr12 {
+width:420px;
+height:30px;
+background:#222222;
+} 
+
+.clashr13 {
+width:390px;
+height:30px;
+background:#111111;
+margin-left:15px;
+text-align:center;
+text-transform:uppercase;
+color:#8a534a;
+font:15px 'Abril Fatface';
+line-height:30px;
+} 
+
+#clashr14 {
+color:#8a534a;
+margin-right:5px;
+} 
+
+.clashr15 {
+width:50%;
+height:1px;
+background:#8a534a;
+margin:0 auto;
+margin-top:30px;
+margin-bottom:30px;
+}
