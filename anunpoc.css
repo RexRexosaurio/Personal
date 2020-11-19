@@ -1,0 +1,36 @@
+.anunbl1 {
+width:420px;
+height:auto;
+background:url(https://2img.net/i.imgur.com/5z3LYVx.png) no-repeat center center fixed;
+background-size:cover;
+margin:0 auto;
+border:1px solid #222222;
+} 
+
+.anunbl2 {
+width:360px;
+height:auto;
+margin-top:30px;
+margin-left:30px;
+margin-bottom:30px;
+background:#111111;
+} 
+
+.anunbl3 {
+font:13px calibri light;
+padding:30px;
+text-align:center;
+} 
+
+.anunbl4 {
+font:30px 'Abril Fatface';
+text-transform:uppercase;
+color:var(--tucolorbaldr);
+}
+
+.anunbl5 {
+width:50%;
+height:1px;
+background:var(--tucolorbaldr);
+margin:0 auto;
+}
