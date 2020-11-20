@@ -1,0 +1,13 @@
+.rolpocla1 {
+width:360px;
+height:auto;
+margin:0 auto;
+background:#111111;
+border-top:1px solid var(--tucolorbaldr);
+border-bottom:1px solid var(--tucolorbaldr);
+} 
+
+.rolpocla2 {
+padding:30px;
+font:13px calibri light;
+}
