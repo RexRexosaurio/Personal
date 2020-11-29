@@ -1,18 +1,18 @@
 .pergrow1 {
 width:500px;
-height:500px;
-background:url('https://i.imgur.com/rgzOjPf.png');
+height:750px;
+background:url('https://i.imgur.com/AG9xtCE.png');
 margin:0 auto;
 } 
 
 .texcar1 {
 width:350px;
-height:330px;
+height:100%;
 font:20px Caveat;
 color:#000000;
 text-align:left;
 position:relative;
-top:91px;
+top:110px;
 left:71px;
 } 
 
