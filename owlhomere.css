@@ -54,6 +54,7 @@ background:#111111;
 font:13px 'Open Sans';
 overflow:auto;
 transition:all ease 1s;
+line-height:13px;
 }
 
 .textyolech1:hover {
@@ -65,13 +66,13 @@ overflow:auto;
 position:absolute;
 transition:all ease 1s;
 margin-top:-208px;
+line-height:125%;
 }
 
 .blotel1 {
 height:auto;
 padding:10px;
 background:#181818;
-line-height:125%;
 color:#d3d3d3;
 }
 
