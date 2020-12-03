@@ -67,17 +67,7 @@ transition:all ease 1s;
 margin-top:-208px;
 }
 
-.blotel1::before {
-height:auto;
-padding-top:16px;
-padding-right:10px;
-padding-left:10px;
-background:#181818;
-line-height:125%;
-color:#d3d3d3;
-}
-
-.blotel1::after {
+.blotel1 {
 height:auto;
 padding:10px;
 background:#181818;
