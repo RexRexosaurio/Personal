@@ -50,8 +50,8 @@ background:url('https://i.imgur.com/gwG7OTc.png');
 .textyolech1 {
 width:320px;
 height:122px;
-background:rgba(17, 17, 17, 0.75);
-font:10px calibri light;
+background:#111111;
+font:10px 'Open Sans';
 overflow:auto;
 transition:all ease 1s;
 }
@@ -59,8 +59,8 @@ transition:all ease 1s;
 .textyolech1:hover {
 width:320px;
 height:330px;
-background:rgba(17, 17, 17, 0.75);
-font:10px calibri light;
+background:#111111;
+font:10px 'Open Sans';
 overflow:auto;
 position:absolute;
 transition:all ease 1s;
